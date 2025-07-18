@@ -1,5 +1,6 @@
 | CVE ID                                   | CVSS       | Vulnerability Type   | Application                                               |
 |------------------------------------------|------------|-----------------------|------------------------------------------------------------|
+| [CVE-2025-49484](https://www.cve.org/CVERecord?id=CVE-2025-49484) | 8.7 High   | SQLi                  | [JS Jobs](https://extensions.joomla.org/extension/js-jobs/)         |
 | [CVE-2025-22210](https://www.cve.org/CVERecord?id=CVE-2025-22210) | 7.2 High   | SQLi                  | [Hikashop](https://extensions.joomla.org/extension/hikashop/)         |
 | [CVE-2025-25225](https://www.cve.org/CVERecord?id=CVE-2025-25225) | 6.5 Medium | Privilege Escalation  | [Hikashop](https://extensions.joomla.org/extension/hikashop/)         |
 | [CVE-2025-22206](https://www.cve.org/CVERecord?id=CVE-2025-22206) | 4.7 Medium | SQLi                  | [JS Jobs](https://extensions.joomla.org/extension/js-jobs/)          |
